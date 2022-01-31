@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### Oi, eu sou o Ailson Azevedo!
+### Olá, eu sou o Ailson Azevedo!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ailsonzevedo&color=yellow" alt="Profile views" /> </p>
 
 <div align="center">
