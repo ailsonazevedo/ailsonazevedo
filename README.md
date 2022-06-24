@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### Olá, me chamo Ailson⚡
+### :rocket: Olá, me chamo Ailson Azevedo!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ailsonzevedo&color=yellow" alt="Profile views" /> </p>
 
 <a href="https://www.youtube.com/channel/UC3Or0ekDwJ1ggCQSZNCsZRg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SQlite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
   
-  ### Outras Habilidades
+  ### Outras Habilidades ⚡
   <br>
   <img align="center" alt="figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="inkscape" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg">
