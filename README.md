@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 ### :rocket: Olá, me chamo Ailson Azevedo!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ailsonzevedo&color=yellow" alt="Profile views" /> </p>
 
-<a href="https://www.youtube.com/channel/UC3Or0ekDwJ1ggCQSZNCsZRg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ailsonazevedo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/gamerdosamigos1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:ailsonazevedocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ailsonazevedo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
