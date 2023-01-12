@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/ailsonazevedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailsonazevedo&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailsonazevedo&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ailsonazevedo&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ailsonazevedo&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
 ![Snake animation](https://github.com/ailsonazevedo/ailsonazevedo/blob/output/github-contribution-grid-snake.svg)
