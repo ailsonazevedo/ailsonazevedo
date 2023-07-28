@@ -28,9 +28,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/ailsonazevedo">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ailsonazevedo&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ailsonazevedo&layout=compact&langs_count=7&theme=outrun"/>
+  ![Snake animation](https://github.com/ailsonazevedo/ailsonazevedo/blob/output/github-contribution-grid-snake.svg)
 </div> -->
   
-![Snake animation](https://github.com/ailsonazevedo/ailsonazevedo/blob/output/github-contribution-grid-snake.svg)
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ailsonazevedo&theme=vue&hide_border=true&show_icons=true"></img>
  ##
   
   <div style="display: inline_block"><br>
