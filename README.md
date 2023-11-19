@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### :rocket: Olá, me chamo Ailson Azevedo!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ailsonzevedo&color=yellow" alt="Profile views" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ailsonzevedo&color=yellow" alt="Profile views" /> </p> -->
 
 <!--   <a href="https://instagram.com/ailsonazevedo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:ailsonazevedocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
