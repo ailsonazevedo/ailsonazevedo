@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 ### :rocket: Olá, me chamo Ailson Azevedo!
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ailsonzevedo&color=yellow" alt="Profile views" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ailsonzevedo&color=blue" alt="Profile views" /> </p>
+
 
 <!--   <a href="https://instagram.com/ailsonazevedo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:ailsonazevedocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -30,9 +31,14 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ailsonazevedo&layout=compact&langs_count=7&theme=outrun"/>
   ![Snake animation](https://github.com/ailsonazevedo/ailsonazevedo/blob/output/github-contribution-grid-snake.svg)
 </div> 
-  
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ailsonazevedo&theme=vue&hide_border=true&show_icons=true"></img> -->
+
+<div align="start">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ailsonazevedo&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ailsonazevedo&theme=vue&hide_border=true&show_icons=true"/>
+</div>
+
  ##
   
   <div style="display: inline_block"><br>
@@ -65,4 +71,12 @@ Here are some ideas to get you started:
    
 </div>
  <br>
-
+<!-- <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
+                 <p align="center">
+                    <a href="https://github.com/ailsonazevedo">
+                       <img aling="center"
+                          src="https://github-readme-stats.vercel.app/api?username=ailsonazevedo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&ring_color=pink"
+                          alt="ailsonazevedo's github stats" width="500"/>
+                   </a> 
+                </p>
+</table> -->
