@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 
 
 <div align="start">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ailsonazevedo&theme=vue&hide_border=true&show_icons=true"/>
+<img width="799" height="193" alt="devpulse-heatmap-2026-10-06" src="https://github.com/user-attachments/assets/d27dc43d-74c3-4212-a5f4-c189899bb264" />
 </div>
+
+
 
  ##
     
@@ -75,3 +77,5 @@ Here are some ideas to get you started:
                    </a> 
                 </p>
 </table> -->
+
+
