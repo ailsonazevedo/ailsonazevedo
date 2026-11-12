@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <div align="start">
-<img width="799" height="193" alt="devpulse-heatmap-2026-10-29" src="https://github.com/user-attachments/assets/dd2d9bc3-c355-49c5-b1df-e103431699e5" />
+<img width="799" height="193" alt="devpulse-heatmap-2026-11-12" src="https://github.com/user-attachments/assets/73299326-e8ca-4e62-99ba-026ed3f51d3f" />
   
 </div>
 
